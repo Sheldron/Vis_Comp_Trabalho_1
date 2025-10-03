@@ -1,0 +1,22 @@
+# Ignorar cache de Python
+__pycache__/
+*.pyc
+
+# Ignorar ambiente virtual
+venv/
+.env/
+
+# Ignorar pastas de dados grandes (evite subir datasets no GitHub)
+dataset/
+
+# Ignorar arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos de logs e modelos
+*.log
+*.h5
+*.ckpt
+
+# Configurações do VSCode
+.vscode/

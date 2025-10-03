@@ -1,0 +1,7 @@
+Para começar a utilizar o código, baixe o dataset necessário. 
+
+Para isso, rode o arquivo InstallDataset e na sequência mude seu local de salvamento para a pasta com o código ou atualize o caminho salvo na variável "path" do arquivo ReadDataset.
+
+Também é possível baixar o dataset direto pelo link: https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-classification
+
+Para executar o código é necessário possuir as bibliotecas kagglehub, tensorflow, Pillow e numpy.
