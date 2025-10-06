@@ -6,8 +6,9 @@ __pycache__/
 venv/
 .env/
 
-# Ignorar pastas de dados grandes (evite subir datasets no GitHub)
+#Ignorar datasets
 dataset/
+dataset_aumentado/
 
 # Ignorar arquivos temporários do sistema
 .DS_Store
@@ -18,5 +19,5 @@ Thumbs.db
 *.h5
 *.ckpt
 
-# Configurações do VSCode
+#Configurações do VSCode
 .vscode/
